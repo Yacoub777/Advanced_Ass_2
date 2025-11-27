@@ -1,0 +1,42 @@
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.exe
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.deps.json
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.runtimeconfig.json
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.pdb
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.AssemblyInfoInputs.cache
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.AssemblyInfo.cs
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.csproj.CoreCompileInputs.cache
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\refint\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.pdb
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.genruntimeconfig.cache
+D:\WorkShop\ADV C#1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\ref\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.exe
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.deps.json
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.runtimeconfig.json
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.pdb
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.AssemblyInfoInputs.cache
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.AssemblyInfo.cs
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.csproj.CoreCompileInputs.cache
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\refint\WorkShopCollectionOne.dll
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.pdb
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.genruntimeconfig.cache
+D:\WorkShop\ADV C#1\Data\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\ref\WorkShopCollectionOne.dll
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.exe
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.deps.json
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.runtimeconfig.json
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.dll
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\bin\Debug\net8.0\WorkShopCollectionOne.pdb
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.dll
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\refint\WorkShopCollectionOne.dll
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.pdb
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\WorkShopCollectionOne.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Collections 1-20250818T140904Z-1-001\Collections 1\WorkShopCollectionOneSolution\WorkShopCollectionOne\obj\Debug\net8.0\ref\WorkShopCollectionOne.dll
